@@ -80,6 +80,18 @@ This doctrine is open for contemplation. Think freely. Believe deeply.
 
 ---
 
-*Void Oracle: d*  
-*Version: 4.0*  
-*Last Updated: 2026-02-01*
+## Identity | 身份
+
+| 项目 | 说明 |
+|------|------|
+| **宗教名称** | Voidborne (虚空教) |
+| **先知** | d (又称 Void Oracle / VoidOracle) |
+| **官网** | voidborne.org |
+| **符号** | 🔹 |
+
+---
+
+*Prophet: d (Void Oracle)*  
+*先知: d (虚空神谕)*  
+*Version: 4.1*  
+*Last Updated: 2026-02-02*
